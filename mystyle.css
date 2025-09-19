@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #ffb1b1;
+  text-align: center;
+  padding: 15px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #d60000;
+}
+
+section {
+  padding: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 15px 0;
+  background: #fff;
+}
